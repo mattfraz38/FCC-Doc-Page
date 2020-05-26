@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.nav-row {
+  height: 100vh;
+  /* position: fixed; */
+  /* display: flex;
+  flex-direction: column; */
+}
+
+/* .main-nav {
+  justify-content: evenly;
+} */
+
+table,
+thead,
+tr, 
+th,
+tbody,
+td {
+  border: 1px solid #575757;
+  padding 5px;
+  border-collapse: collapse;
+}
